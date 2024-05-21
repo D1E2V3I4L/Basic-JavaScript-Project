@@ -1,6 +1,6 @@
 # Basic-JavaScript-Project
 
-To-Do List with Priority Feature
+### To-Do List with Priority Feature
 This project is a simple and interactive to-do list web application that allows users to add, edit, prioritize, and delete tasks. It also includes functionality to save tasks in the browser's local storage so that the task list persists even after the page is reloaded.
 
 Features
