@@ -14,3 +14,11 @@ Technologies Used
 HTML: For structuring the web page.
 CSS: For styling the application and adding animations.
 JavaScript: For handling the application logic, including adding, editing, prioritizing, and deleting tasks, as well as interacting with local storage.
+
+How to Use
+Add a Task: Enter a task in the input box and click the "Add" button.
+Edit a Task: Click the "Edit" button next to the task you want to edit, enter the new task text, and save it.
+Delete a Task: Click the "×" button next to the task you want to delete.
+Mark as Priority: Click the "Priority" button next to the task to mark it as high priority. A star (★) will appear in front of the task.
+Complete a Task: Click on the task text to toggle the completed status, which applies a strikethrough effect.
+Persistent Storage: The tasks are automatically saved in local storage, so they will remain even after you close or refresh the browser.
