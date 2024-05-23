@@ -132,7 +132,7 @@ ul li:hover {
 ul li.checked {
     color: #555;
     text-decoration: line-through;
-    animation: fadeOut 0.5s ease forwards;
+    
 }
 
 ul li.checked::before {
